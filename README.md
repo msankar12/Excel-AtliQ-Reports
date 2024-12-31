@@ -51,4 +51,6 @@ This project not only allowed me to apply my technical skills but also provided 
 
 # Report Links
 - [Customer Performance Report](https://github.com/msankar12/Excel-AtliQ-Reports/blob/main/Customer%20Performance%20Report.pdf)
-- [Market Performance and Sales Targets Comparison Report]
+- [Market Performance and Sales Targets Comparison Report](https://github.com/msankar12/Excel-AtliQ-Reports/blob/main/AtliQ%20P%20%26%20L%20Reports%20by%20Markets.pdf)
+- [P&L by Years and Months](https://github.com/msankar12/Excel-AtliQ-Reports/blob/main/P%20%26%20L%20by%20Years%20and%20Months.pdf)
+- [AtliQ p&L Reports by Markets](https://github.com/msankar12/Excel-AtliQ-Reports/blob/main/AtliQ%20P%20%26%20L%20Reports%20by%20Markets.pdf)
