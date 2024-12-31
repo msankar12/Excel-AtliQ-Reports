@@ -39,6 +39,6 @@ Adaptability: Embraced new tools and techniques, showcasing adaptability in a dy
 # Conclusion
 This project not only allowed me to apply my technical skills but also provided a platform for continuous learning and improvement. The experience gained is instrumental in my journey as a data professional, and I look forward to applying these skills in future projects.
 # Report Links
-
+Customer Performance Report.pdf
 
 
